@@ -1,4 +1,4 @@
-Food Delivery Application 
+Food Delivery Application -
    This application develop using react native and twailwind CSS.
    To run this appication use expo.
    This application has two interfaces. First -HomeScreen Second -ProductScreen.
